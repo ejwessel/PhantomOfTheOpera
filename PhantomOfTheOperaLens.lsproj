@@ -1,0 +1,807 @@
+{
+    "lens_id": "4daa7e11-68b8-4de2-8834-c3b403bea681",
+    "document_id": "sCCb_-ePwwJxxZIxmUrW",
+    "original_document_id": "sCCb_-ePwwJxxZIxmUrW",
+    "version": "24",
+    "lastChanged": "1595302500758",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "CreditAlpha"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "IconSource"
+                    ],
+                    [
+                        "Phantom_of_the_opera_mask"
+                    ],
+                    [
+                        "Phantom_of_the_opera_mask",
+                        "Animations"
+                    ],
+                    [
+                        "Phantom_of_the_opera_mask",
+                        "Materials"
+                    ],
+                    [
+                        "Phantom_of_the_opera_mask",
+                        "Materials",
+                        "Default"
+                    ],
+                    [
+                        "Phantom_of_the_opera_mask",
+                        "Meshes"
+                    ],
+                    [
+                        "Phantom_of_the_opera_mask",
+                        "Meshes",
+                        "Mask"
+                    ],
+                    [
+                        "Phantom_of_the_opera_mask",
+                        "Phantom_of_the_opera_mask"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "b8bc37d983e19a593d6975362cdaf8c8",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Phantom Opera",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 3.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Open Mouth Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1595301484513675:6979"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1595301475044737:5520",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1595301475066121:5534",
+                    "name": "Files\/File10",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1595301475194872:5622",
+                    "name": "Phantom_of_the_opera_mask",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1595302249369517:97343",
+                    "name": "Files\/File27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1595302332535716:106185",
+                    "name": "Files\/File29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1595302340851930:107514",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1595301475273819:5658",
+                "4": "1595301475275400:5664",
+                "5": "1595301484513165:6978",
+                "6": "1595301484513675:6979",
+                "7": "1595301484522098:6999",
+                "8": "1595302340821018:107305",
+                "9": "1595302340831158:107374",
+                "10": "1595302340851691:107513"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.lsmat"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.oprfb"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.fbx"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.oprfb"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Phantom_of_the_opera_mask.fbx"
+                    },
+                    {
+                        "k": "969",
+                        "v": "..\/AdditionalFiles\/Phantom_of_the_opera_mask\/Materials"
+                    },
+                    {
+                        "k": "970",
+                        "v": "..\/AdditionalFiles\/Phantom_of_the_opera_mask\/Materials\/Default.lsmat"
+                    },
+                    {
+                        "k": "978",
+                        "v": "IconSource.png"
+                    },
+                    {
+                        "k": "979",
+                        "v": "CreditAlpha.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "d6e691810dae5cda5729df91cb496892"
+                    },
+                    {
+                        "k": "970",
+                        "v": "e70436bd524157117b1119f24f8aa00f"
+                    },
+                    {
+                        "k": "971",
+                        "v": "eaec4c2f799a6579b0f55064a4cd8682"
+                    },
+                    {
+                        "k": "972",
+                        "v": "c2bd43cd7a7d88d9a7c5ce13d129d740"
+                    },
+                    {
+                        "k": "973",
+                        "v": "0e554ecb677d411e658565289f13268f"
+                    },
+                    {
+                        "k": "975",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "976",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "977",
+                        "v": "ff3d6548e962f8fc8613eaae0eab7f57"
+                    },
+                    {
+                        "k": "978",
+                        "v": "f50699a7e47e99ab147909ffe758aa92"
+                    },
+                    {
+                        "k": "979",
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-07-20T20:32:12",
+                        "name": "Public",
+                        "hash": "18673bcc0e85d7d723e8da0ad84cfc37",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-07-16T17:09:36",
+                                "name": "Phantom_of_the_opera_mask.fbx",
+                                "hash": "d6e691810dae5cda5729df91cb496892",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-20T06:42:46",
+                                "name": "CreditAlpha.js",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-07T20:02:19",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-20T20:30:45",
+                                "name": "IconSource.png",
+                                "hash": "f50699a7e47e99ab147909ffe758aa92",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-07T20:01:28",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phantom_of_the_opera_mask",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "13",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "\/Users\/ejwessel\/Downloads\/phantom-of-the-opera-mask\/source\/Mask_Export\/Phantom_of_the_opera_mask.Fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Default",
+                                    "v": "1595301475066121:5534"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Mask",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "1",
+                                        "uid": "1595301475044737:5520",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-LdwmVk\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    },
+                                                    {
+                                                        "semantic": "texture1",
+                                                        "format": "9",
+                                                        "index": "4"
+                                                    },
+                                                    {
+                                                        "semantic": "texture2",
+                                                        "format": "9",
+                                                        "index": "5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Default",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "uid": "1595301475066121:5534",
+                                        "fileId": "10",
+                                        "originalId": "11",
+                                        "publicId": "970",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Phantom_of_the_opera_mask",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "14",
+                                "dependency": "1",
+                                "uid": "1595301475194872:5622",
+                                "fileId": "12",
+                                "originalId": "14",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "IconSource",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1595302249369517:97343",
+                        "fileId": "27",
+                        "originalId": "28",
+                        "publicId": "978",
+                        "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-07-20 at 20.30.40.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "CreditAlpha",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1595302332535716:106185",
+                        "fileId": "29",
+                        "originalId": "18446744073709551615",
+                        "publicId": "979",
+                        "source": "\/Users\/ejwessel\/Desktop\/CreditAlpha.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1595302340851691:107513"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1595301475273819:5658",
+                        "v": {
+                            "prefab": "1595301475194872:5622",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1595301475113224:5553",
+                                    "v": "1595301475273819:5658"
+                                },
+                                {
+                                    "k": "1595301475115893:5555",
+                                    "v": "1595301475275400:5664"
+                                },
+                                {
+                                    "k": "1595301475116257:5557",
+                                    "v": "1595301475275827:5666"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1595301475194872:5622",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1595301475113224:5553"
+                        },
+                        {
+                            "k": [
+                                "Mask"
+                            ],
+                            "v": "1595301475115893:5555"
+                        },
+                        {
+                            "k": [
+                                "Mask",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1595301475116257:5557"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
